@@ -1,4 +1,3 @@
 x='ashish'
-y='adarsh'
-z='gaurav'
+y='adars'
 
